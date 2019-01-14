@@ -8,13 +8,8 @@
 	background-color: #00004d;
 	color: #FFFFFF;
 	}
-</style>	
-.navigation a:link{
-	color: #ffffff;
-	}
 	
-.navigation a:visited{
-	color: #ffff00;
+
 	}
 	
 .navigation li{
@@ -29,10 +24,11 @@
 	background-color: #3333ff;
 }
 
-/* .navigation a:link{
-	color: #ffffff
-	text-decoration: none;
-}	 */
+.active{
+	background-color: #555;
+	color: blue;
+}
+</style>
 /* html{
 	background-color:#999999;
 	}
